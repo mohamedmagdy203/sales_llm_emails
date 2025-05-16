@@ -1,0 +1,156 @@
+2025-05-15 22:09:22,767 - __main__ - INFO - Database connection established successfully
+2025-05-15 22:09:22,835 - __main__ - INFO - Email credentials verified successfully
+2025-05-15 22:09:22,837 - __main__ - INFO - Email monitor started
+2025-05-15 22:09:23,152 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:09:26,737 - __main__ - INFO - Email sent successfully to mm2588905@gmail.com
+2025-05-15 22:09:26,981 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:09:27,127 - __main__ - INFO - Listening for replies from mm2588905@gmail.com (timeout: 300s)
+2025-05-15 22:09:45,244 - __main__ - INFO - Reply received from: Mohamed Magdy <mm2588905@gmail.com>, Subject: Re: Exclusive Offer on Apple Smart Watch
+2025-05-15 22:09:45,933 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:09:47,621 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:09:47,838 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:09:51,153 - __main__ - INFO - Email sent successfully to mm2588905@gmail.com
+2025-05-15 22:09:51,399 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:09:51,627 - __main__ - INFO - Listening for replies from mm2588905@gmail.com (timeout: 300s)
+2025-05-15 22:10:09,652 - __main__ - INFO - Reply received from: Mohamed Magdy <mm2588905@gmail.com>, Subject: Re: Exclusive Offer on Apple Smart Watch
+2025-05-15 22:10:10,380 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:10:11,896 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:10:12,021 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:10:12,023 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 24.000000 seconds
+2025-05-15 22:10:36,326 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:12:06,523 - __main__ - INFO - Database connection established successfully
+2025-05-15 22:12:06,601 - __main__ - INFO - Email credentials verified successfully
+2025-05-15 22:12:06,605 - __main__ - INFO - Email monitor started
+2025-05-15 22:12:06,983 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:12:10,518 - __main__ - INFO - Email sent successfully to mm2588905@gmail.com
+2025-05-15 22:12:10,738 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:12:11,137 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:12:11,545 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:12:11,952 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:12:12,328 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:12:13,415 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:12:13,547 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:12:13,548 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 13.000000 seconds
+2025-05-15 22:12:26,873 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:12:30,614 - __main__ - INFO - Email sent successfully to mm2588905@gmail.com
+2025-05-15 22:12:30,736 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:12:30,737 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 21.000000 seconds
+2025-05-15 22:12:52,284 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:12:52,635 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:12:52,638 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 22.000000 seconds
+2025-05-15 22:13:11,200 - __main__ - INFO - New email from Kaggle <noreply@kaggle.com> added to queue
+2025-05-15 22:13:14,941 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:13:15,406 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:13:15,407 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 23.000000 seconds
+2025-05-15 22:13:38,721 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:13:39,101 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:13:39,102 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 22.000000 seconds
+2025-05-15 22:13:59,242 - __main__ - INFO - New email from Mohamed Magdy <mm2588905@gmail.com> added to queue
+2025-05-15 22:14:01,529 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:14:04,689 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:14:04,690 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 7.000000 seconds
+2025-05-15 22:18:38,302 - __main__ - INFO - Database connection established successfully
+2025-05-15 22:18:38,371 - __main__ - INFO - Email credentials verified successfully
+2025-05-15 22:18:38,373 - __main__ - INFO - Email monitor started
+2025-05-15 22:18:39,296 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:18:44,130 - __main__ - INFO - Email sent successfully to mm2588905@gmail.com
+2025-05-15 22:18:44,539 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:18:45,257 - __main__ - INFO - Listening for replies from mm2588905@gmail.com (timeout: 300s)
+2025-05-15 22:20:32,643 - __main__ - INFO - Reply received from: Mohamed Magdy <mm2588905@gmail.com>, Subject: Re: Exclusive Offer: Apple Smart Watch
+2025-05-15 22:20:33,281 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:20:35,069 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:20:35,282 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:20:36,408 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:20:38,357 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:20:39,843 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:20:39,844 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2025-05-15 22:20:46,422 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:20:47,844 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:20:48,321 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:20:49,219 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:20:49,469 - __main__ - INFO - Product query successful: Laptops
+2025-05-15 22:20:49,994 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:20:50,973 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:20:50,974 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 15.000000 seconds
+2025-05-15 22:21:06,592 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:21:06,928 - __main__ - INFO - Listening for replies from mm2588905@gmail.com (timeout: 300s)
+2025-05-15 22:22:12,291 - __main__ - INFO - Database connection established successfully
+2025-05-15 22:22:12,370 - __main__ - INFO - Email credentials verified successfully
+2025-05-15 22:22:12,373 - __main__ - INFO - Email monitor started
+2025-05-15 22:22:12,848 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:22:16,412 - __main__ - INFO - Email sent successfully to mm2588905@gmail.com
+2025-05-15 22:22:16,625 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:22:16,860 - __main__ - INFO - Listening for replies from mm2588905@gmail.com (timeout: 300s)
+2025-05-15 22:23:15,453 - __main__ - INFO - Reply received from: Mohamed Magdy <mm2588905@gmail.com>, Subject: Re: Exclusive Offer: Apple Smart Watch
+2025-05-15 22:23:16,440 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:23:18,430 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:23:19,001 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:23:20,392 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:23:22,190 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:23:23,512 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:23:23,514 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2025-05-15 22:23:25,815 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:23:26,981 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:23:27,195 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:23:27,857 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:23:28,108 - __main__ - INFO - Product query successful: Laptops
+2025-05-15 22:23:28,352 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:23:31,751 - __main__ - INFO - Email sent successfully to mm2588905@gmail.com
+2025-05-15 22:23:31,910 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:23:31,911 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 14.000000 seconds
+2025-05-15 22:23:46,539 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:23:46,973 - __main__ - INFO - Listening for replies from mm2588905@gmail.com (timeout: 300s)
+2025-05-15 22:24:23,564 - __main__ - INFO - Reply received from: Mohamed Magdy <mm2588905@gmail.com>, Subject: Re: Laptop Information
+2025-05-15 22:24:24,252 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:24:26,450 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:24:26,570 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:24:26,571 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 1.000000 seconds
+2025-05-15 22:24:27,906 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:24:29,083 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:24:29,084 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 11.000000 seconds
+2025-05-15 22:24:40,379 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:24:41,897 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:24:41,899 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 10.000000 seconds
+2025-05-15 22:24:52,183 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:24:52,872 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:24:52,873 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2025-05-15 22:25:02,178 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:25:02,965 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:25:02,966 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 1.000000 seconds
+2025-05-15 22:25:04,254 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:25:04,360 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:25:04,361 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 11.000000 seconds
+2025-05-15 22:25:15,702 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:25:16,390 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:25:16,391 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 12.000000 seconds
+2025-05-15 22:25:28,692 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:25:29,171 - __main__ - INFO - Product query successful: Laptops
+2025-05-15 22:25:29,304 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:25:29,305 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 30.000000 seconds
+2025-05-15 22:25:59,782 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:26:03,253 - __main__ - INFO - Email sent successfully to mm2588905@gmail.com
+2025-05-15 22:26:03,373 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:26:03,374 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 33.000000 seconds
+2025-05-15 22:26:36,721 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:26:37,048 - __main__ - INFO - Listening for replies from mm2588905@gmail.com (timeout: 300s)
+2025-05-15 22:26:38,784 - __main__ - INFO - Reply received from: Mohamed Magdy <mm2588905@gmail.com>, Subject: Re: Pricing Details for 3 Laptops
+2025-05-15 22:26:39,276 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:26:39,277 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 32.000000 seconds
+2025-05-15 22:27:11,653 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:27:12,913 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:27:12,914 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2025-05-15 22:27:20,031 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:27:20,190 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:27:20,191 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 46.000000 seconds
+2025-05-15 22:28:07,088 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:28:34,927 - __main__ - INFO - Email sent successfully to mm2588905@gmail.com
+2025-05-15 22:28:35,898 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:28:42,198 - __main__ - INFO - Listening for replies from mm2588905@gmail.com (timeout: 300s)
+2025-05-15 22:29:15,602 - __main__ - INFO - Reply received from: Mohamed Magdy <mm2588905@gmail.com>, Subject: Re: Confirming the Offer for 3 Laptops
+2025-05-15 22:29:19,689 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:29:21,887 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:29:21,889 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 1.000000 seconds
+2025-05-15 22:29:23,714 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-15 22:29:23,865 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-15 22:29:23,866 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 57.000000 seconds
+2025-05-15 22:30:21,399 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

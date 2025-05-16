@@ -1,0 +1,11 @@
+imaplib2  
+email  
+yagmail
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-groq
+tavily-search  
+SQLAlchemy
+tenacity
