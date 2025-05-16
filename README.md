@@ -57,8 +57,8 @@ All interactions are logged, analyzed, and used to build a continuous customer p
 
 ```bash
 # Clone repo
-$ git clone https://github.com/yourusername/llm-emails.git
-$ cd llm-emails
+$ git clonehttps://github.com/mohamedmagdy203/sales_llm_emails.git
+$ cd sales_llm_emails
 
 # Create virtual environment
 $ python -m venv venv
